@@ -1,16 +1,37 @@
-## Hi there 👋
+```bash
+# =====================================================
+# 👋 \033[1;36mOlá, eu sou Miguel Modolo\033[0m
+# =====================================================
+echo "\033[1;32mApaixonado por resolver problemas com tecnologia e programação.\033[0m"
+echo "\033[1;33mAtualmente estudo Ciência da Computação e trabalho como Técnico de Eletrônica na Samsung.\033[0m"
+echo "\033[1;35mSempre aprendendo e aplicando soluções reais.\033[0m"
 
-<!--
-**mmodoloo/mmodoloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# =====================================================
+# 📊 \033[1;36mMinhas Estatísticas no GitHub\033[0m
+# =====================================================
 
-Here are some ideas to get you started:
+![Estatísticas do GitHub](https://metrics.lecoq.io/mmodoloo?template=classic&config.timezone=America%2FSao_Paulo&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# =====================================================
+# 🔧 \033[1;36mTecnologias e Ferramentas\033[0m
+# =====================================================
+
+🟩 Linguagens:
+
+* JavaScript [██████████] 100%
+* C [████████--] 80%
+
+🟦 Frameworks: React, Node.js, Express
+🟪 Ferramentas: Git, GitHub, VS Code, Docker
+
+# =====================================================
+# 📈 \033[1;36mCalendário de Commits\033[0m
+# =====================================================
+
+![Calendário de Commits](https://metrics.lecoq.io/mmodoloo?template=classic&config.timezone=America%2FSao_Paulo&plugins=calendar&theme=dark)
+
+🔗 LinkedIn : Miguel Modolo
+
+🎬 Portfolio: Vimeo
+
+📧 Email : modolodev@gmail.com
