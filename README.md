@@ -2,7 +2,7 @@
 
 **`backend developer`**
 
-My name is Miguel Modolo, I'm 20 years old, and I'm from São Paulo, but I currently live in the marvelous city. I'm currently studying Computer Science at Estácio. I'm passionate about technology because it makes you feel alive and useful to the community.
+My name is Miguel Modolo, I'm 20 years old, and I'm from São Paulo, but I currently live in Rio de Janeiro. I'm currently studying Computer Science at Estácio. I'm passionate about technology because it makes you feel alive and useful to the community.
 
 <a href="https://github.com/mmodoloo?tab=repositories&sort=stargazers">
         <img 
