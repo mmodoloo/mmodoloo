@@ -18,7 +18,7 @@ My name is Miguel Modolo, I'm 20 years old, and I'm from São Paulo, but I curre
             src="https://custom-icon-badges.demolab.com/github/followers/mmodoloo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-  <a href="https://www.linkedin.com/in/miguel-modolo-396219231/">
+  <a href="https://www.linkedin.com/in/Miguel-Modolo-396219231/">
     <img 
         alt="LinkedIn" 
         title="Connect with me on LinkedIn" 
